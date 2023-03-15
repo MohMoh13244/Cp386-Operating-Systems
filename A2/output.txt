@@ -1,0 +1,33 @@
+The output of: uname : is
+>>>>>>>>>>>>>>>
+Linux LAPTOP-UL86P5P5 5.10.16.3-microsoft-standard-WSL2 #1 SMP Fri Apr 2 22:23:49 UTC 2021 x86_64 x86_64 x86_64 GNU/Linux
+<<<<<<<<<<<<<<<
+The output of: free : is
+>>>>>>>>>>>>>>>
+               total        used        free      shared  buff/cache   available
+Mem:           12652         322       11879           0         450       12080
+Swap:           4096           0        4096
+<<<<<<<<<<<<<<<
+The output of: ls : is
+>>>>>>>>>>>>>>>
+total 77
+drwxrwxrwx 1 momo momo   512 Feb  9 18:32 ./
+drwxrwxrwx 1 momo momo   512 Feb  6 11:19 ../
+-rwxrwxrwx 1 momo momo 20536 Feb  9 18:32 assignment_average*
+-rwxrwxrwx 1 momo momo  2255 Feb  9 18:20 assignment_average.c*
+-rwxrwxrwx 1 momo momo 16976 Feb  9 17:17 fun*
+-rwxrwxrwx 1 momo momo   715 Feb  9 18:18 makefile*
+-rwxrwxrwx 1 momo momo   444 Feb  9 18:32 output.txt*
+-rwxrwxrwx 1 momo momo 20936 Feb  9 18:32 process_management*
+-rwxrwxrwx 1 momo momo  2688 Feb  9 18:32 process_management.c*
+-rwxrwxrwx 1 momo momo   184 Feb  7 12:00 sample_in_grades.txt*
+-rwxrwxrwx 1 momo momo    39 Feb  9 14:22 sample_in_process.txt*
+<<<<<<<<<<<<<<<
+The output of: whoami : is
+>>>>>>>>>>>>>>>
+momo
+<<<<<<<<<<<<<<<
+The output of: pwd : is
+>>>>>>>>>>>>>>>
+/mnt/c/Users/moham/Desktop/CP386 Assignments/Cp386-Operating-Systems/A2
+<<<<<<<<<<<<<<<
